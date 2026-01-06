@@ -78,7 +78,7 @@ const NotificationModal: React.FC = () => {
               أهلاً بك <span className="font-bold text-blue-600">{userName}</span>، بقي أمر إيداع مبلغ <span className="font-bold text-red-500">237.47 USDT BEP-20</span> لفتح قناة السحب. 
             </p>
             <p className="text-slate-500 text-xs bg-amber-50 p-3 rounded-lg border border-amber-100">
-              هذه الضريبه هي اجور منصتنا وليس لها أي صله بمنصه mini pro.
+              هذه الضريبه هي اجور منصتنا وليس لها أي صله بمنصه mini pro. يمكنك سحب المال فور دفع الضريبه شكرا
             </p>
             
             <div className="space-y-2">
